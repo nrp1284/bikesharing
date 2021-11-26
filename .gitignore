@@ -1,3 +1,9 @@
+
+# Adding config.py file.
+citibike_201908_updt2.csv
+# Adding Additional Files.
+201908-citibike-tripdata.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
